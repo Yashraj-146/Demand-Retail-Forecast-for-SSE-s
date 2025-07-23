@@ -28,7 +28,7 @@ Aligned forecast outputs with the business objectives of small enterprises:
 ---
 
 ## Benefits for Small Enterprises
-- **Accurate Demand Predictions**: Improve inventory management and reduce waste.
+- **Accurate Demand Predictions**: Improve inventory management and reduce overstocking.
 - **Actionable Insights**: Drive data-driven decision-making for order placement and stock management.
 - **Scalable Solution**: Designed to grow with the business while maintaining accuracy and efficiency.
 
