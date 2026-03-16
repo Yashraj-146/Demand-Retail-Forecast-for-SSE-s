@@ -62,13 +62,15 @@ The forecast results will be saved in the `output/` directory. Use the provided 
 ## Project Structure
 ```
 Demand-Retail-Forecast-for-SSE-s/
-├── FeedForward_Model.ipynb        # FeedForward model notebook
-├── TFT_Model.ipynb                # Latest Temporal Fusion Transformer implementation
-├── sales_data.csv                 # Main Dataset used for the TFT model(10k rows)
-├── train.csv                      # Training dataset
-├── test.csv                       # Test dataset
-├── sample_submission.csv          # Sample submission format for predictions
-├── README.md                      # Project documentation
+├── Sample Submissions/                # Folder containing example inputs
+│
+├── Basic_Model(first try).ipynb       # Initial baseline forecasting model
+├── FeedForward_Model.ipynb            # FeedForward neural network model
+├── TFT_Model.ipynb                    # Latest Temporal Fusion Transformer implementation
+├── sales_data.csv                     # Dataset used for training the models(10k rows)
+├── train.csv                          # Training dataset
+├── test.csv                           # Test dataset
+├── README.md                          # Project documentation
 
 ```
 
