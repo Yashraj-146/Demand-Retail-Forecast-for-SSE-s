@@ -1,0 +1,124 @@
+distributor_id,industry,sku,category,sales,avg_quarterly_sales,movement_category,quarter,year,total_quarter_sales,prev_quarter_sales,is_diwali,is_ganesh_chaturthi,is_gudi_padwa,is_eid,is_akshay_tritiya,is_dussehra_navratri,is_onam,is_christmas,time_idx
+DIST036,Healthcare,Adidas Running Shoes,Sports,2753.45,1700.72,Fast Moving,3,2024,2753.45,1558.52,0,1,0,0,0,1,1,0,26497
+DIST036,Healthcare,Adidas Running Shoes,Sports,3105.87,1700.72,Fast Moving,4,2024,3105.87,2753.45,1,0,0,0,0,1,0,1,26498
+DIST036,Healthcare,Adidas Running Shoes,Sports,1623.78,1700.72,Medium,1,2025,1623.78,3105.87,0,0,1,1,0,0,0,0,26499
+DIST036,Healthcare,Asian Paints Tractor Emulsion,Paint and ancillaries,34803.75,22882.43,Fast Moving,3,2024,34803.75,47096.92,0,1,0,0,0,1,1,0,26590
+DIST036,Healthcare,Asian Paints Tractor Emulsion,Paint and ancillaries,42751.69,22882.43,Medium,4,2024,42751.69,34803.75,1,0,0,0,0,1,0,1,26591
+DIST036,Healthcare,Asian Paints Tractor Emulsion,Paint and ancillaries,29857.12,22882.43,Slow Moving,1,2025,29857.12,42751.69,0,0,1,1,0,0,0,0,26592
+DIST036,Healthcare,Bajaj Mixer Grinder,Home Goods,7224.99,7816.7,Slow Moving,3,2024,7224.99,5801.24,0,1,0,0,0,1,1,0,27296
+DIST036,Healthcare,Bajaj Mixer Grinder,Home Goods,9753.22,7816.7,Fast Moving,4,2024,9753.22,7224.99,1,0,0,0,0,1,0,1,27297
+DIST036,Healthcare,Bajaj Mixer Grinder,Home Goods,6257.85,7816.7,Medium,1,2025,6257.85,9753.22,0,0,1,1,0,0,0,0,27298
+DIST036,Healthcare,Basil Rubber Chew Toy,Pet Supplies,14862.31,10800.74,Fast Moving,3,2024,14862.31,13838.85,0,1,0,0,0,1,1,0,26697
+DIST036,Healthcare,Basil Rubber Chew Toy,Pet Supplies,16491.25,10800.74,Medium,4,2024,16491.25,14862.31,1,0,0,0,0,1,0,1,26698
+DIST036,Healthcare,Basil Rubber Chew Toy,Pet Supplies,12784.66,10800.74,Slow Moving,1,2025,12784.66,16491.25,0,0,1,1,0,0,0,0,26699
+DIST036,Healthcare,Berger Easy Clean,Paint and ancillaries,8932.58,8913.79,Medium,3,2024,8932.58,7831.51,0,1,0,0,0,1,1,0,26765
+DIST036,Healthcare,Berger Easy Clean,Paint and ancillaries,10546.87,8913.79,Fast Moving,4,2024,10546.87,8932.58,1,0,0,0,0,1,0,1,26766
+DIST036,Healthcare,Berger Easy Clean,Paint and ancillaries,5672.43,8913.79,Slow Moving,1,2025,5672.43,10546.87,0,0,1,1,0,0,0,0,26767
+DIST036,Healthcare,Borosil Glass Set,Home Goods,2895.21,2770.72,Medium,3,2024,2895.21,2355.06,0,1,0,0,0,1,1,0,27178
+DIST036,Healthcare,Borosil Glass Set,Home Goods,3285.45,2770.72,Slow Moving,4,2024,3285.45,2895.21,1,0,0,0,0,1,0,1,27179
+DIST036,Healthcare,Borosil Glass Set,Home Goods,2142.18,2770.72,Fast Moving,1,2025,2142.18,3285.45,0,0,1,1,0,0,0,0,27180
+DIST036,Healthcare,Bosch Wiper Blades,Automotive,8001.09,6474.21,Medium,3,2024,8001.09,8684.82,0,1,0,0,0,1,1,0,27134
+DIST036,Healthcare,Bosch Wiper Blades,Automotive,11572.62,6474.21,Fast Moving,4,2024,11572.62,8001.09,1,0,0,0,0,1,0,1,27135
+DIST036,Healthcare,Bosch Wiper Blades,Automotive,5942.76,6474.21,Medium,1,2025,5942.76,11572.62,0,0,1,1,0,0,0,0,27136
+DIST036,Healthcare,Cadbury Dairy Milk Chocolate,Food,15826.95,12480.74,Medium,3,2024,15826.95,14690.06,0,1,0,0,0,1,1,0,26927
+DIST036,Healthcare,Cadbury Dairy Milk Chocolate,Food,19254.38,12480.74,Fast Moving,4,2024,19254.38,15826.95,1,0,0,0,0,1,0,1,26928
+DIST036,Healthcare,Cadbury Dairy Milk Chocolate,Food,14568.72,12480.74,Medium,1,2025,14568.72,19254.38,0,0,1,1,0,0,0,0,26929
+DIST036,Healthcare,Carrom Board Full Size,Toys,4327.14,5188.35,Fast Moving,3,2024,4327.14,3263.17,0,1,0,0,0,1,1,0,26883
+DIST036,Healthcare,Carrom Board Full Size,Toys,5802.85,5188.35,Slow Moving,4,2024,5802.85,4327.14,1,0,0,0,0,1,0,1,26884
+DIST036,Healthcare,Carrom Board Full Size,Toys,3581.46,5188.35,Medium,1,2025,3581.46,5802.85,0,0,1,1,0,0,0,0,26885
+DIST036,Healthcare,Cello Finesse Dinner Set,Home Goods,2865.43,2944.2,Slow Moving,3,2024,2865.43,2026.91,0,1,0,0,0,1,1,0,26717
+DIST036,Healthcare,Cello Finesse Dinner Set,Home Goods,4521.82,2944.2,Medium,4,2024,4521.82,2865.43,1,0,0,0,0,1,0,1,26718
+DIST036,Healthcare,Cello Finesse Dinner Set,Home Goods,2187.65,2944.2,Fast Moving,1,2025,2187.65,4521.82,0,0,1,1,0,0,0,0,26719
+DIST036,Healthcare,Cetaphil Gentle Skin Cleanser,Health,4921.57,4301.95,Fast Moving,3,2024,4921.57,2274.23,0,1,0,0,0,1,1,0,27018
+DIST036,Healthcare,Cetaphil Gentle Skin Cleanser,Health,6104.89,4301.95,Medium,4,2024,6104.89,4921.57,1,0,0,0,0,1,0,1,27019
+DIST036,Healthcare,Cetaphil Gentle Skin Cleanser,Health,3258.74,4301.95,Slow Moving,1,2025,3258.74,6104.89,0,0,1,1,0,0,0,0,27020
+DIST036,Healthcare,Chess Set Wooden,Toys,13677.0,12565.45,Slow Moving,3,2024,13677.0,12388.0,0,1,0,0,0,1,1,0,27228
+DIST036,Healthcare,Chess Set Wooden,Toys,16872.45,12565.45,Fast Moving,4,2024,16872.45,13677.0,1,0,0,0,0,1,0,1,27229
+DIST036,Healthcare,Chess Set Wooden,Toys,9845.21,12565.45,Medium,1,2025,9845.21,16872.45,0,0,1,1,0,0,0,0,27230
+DIST036,Healthcare,Classmate Notebook Set,Office Supplies,4045.91,5049.67,Medium,3,2024,4045.91,3646.61,0,1,0,0,0,1,1,0,27367
+DIST036,Healthcare,Classmate Notebook Set,Office Supplies,6132.74,5049.67,Fast Moving,4,2024,6132.74,4045.91,1,0,0,0,0,1,0,1,27368
+DIST036,Healthcare,Classmate Notebook Set,Office Supplies,4826.35,5049.67,Medium,1,2025,4826.35,6132.74,0,0,1,1,0,0,0,0,27369
+DIST036,Healthcare,Columbia Hiking Backpack,Sports,10654.86,7917.89,Medium,3,2024,10654.86,11297.22,0,1,0,0,0,1,1,0,27318
+DIST036,Healthcare,Columbia Hiking Backpack,Sports,13526.91,7917.89,Fast Moving,4,2024,13526.91,10654.86,1,0,0,0,0,1,0,1,27319
+DIST036,Healthcare,Columbia Hiking Backpack,Sports,6214.75,7917.89,Slow Moving,1,2025,6214.75,13526.91,0,0,1,1,0,0,0,0,27320
+DIST036,Healthcare,Cosco Volleyball,Sports,673.05,838.75,Slow Moving,3,2024,673.05,568.91,0,1,0,0,0,1,1,0,26997
+DIST036,Healthcare,Cosco Volleyball,Sports,986.24,838.75,Medium,4,2024,986.24,673.05,1,0,0,0,0,1,0,1,26998
+DIST036,Healthcare,Cosco Volleyball,Sports,524.87,838.75,Fast Moving,1,2025,524.87,986.24,0,0,1,1,0,0,0,0,26999
+DIST036,Healthcare,Disney Princess Doll,Toys,3842.51,3623.32,Fast Moving,3,2024,3842.51,3031.44,0,1,0,0,0,1,1,0,26379
+DIST036,Healthcare,Disney Princess Doll,Toys,4937.65,3623.32,Medium,4,2024,4937.65,3842.51,1,0,0,0,0,1,0,1,26380
+DIST036,Healthcare,Disney Princess Doll,Toys,2564.38,3623.32,Slow Moving,1,2025,2564.38,4937.65,0,0,1,1,0,0,0,0,26381
+DIST036,Healthcare,Ensure Protein Powder,Health,12563.92,6692.47,Fast Moving,3,2024,12563.92,10832.83,0,1,0,0,0,1,1,0,26407
+DIST036,Healthcare,Ensure Protein Powder,Health,14892.51,6692.47,Slow Moving,4,2024,14892.51,12563.92,1,0,0,0,0,1,0,1,26408
+DIST036,Healthcare,Ensure Protein Powder,Health,8241.76,6692.47,Medium,1,2025,8241.76,14892.51,0,0,1,1,0,0,0,0,26409
+DIST036,Healthcare,Exide Battery 65Ah,Automotive,68141.65,36472.36,Medium,3,2024,68141.65,46783.7,0,1,0,0,0,1,1,0,27043
+DIST036,Healthcare,Exide Battery 65Ah,Automotive,72568.94,36472.36,Fast Moving,4,2024,72568.94,68141.65,1,0,0,0,0,1,0,1,27044
+DIST036,Healthcare,Exide Battery 65Ah,Automotive,37542.87,36472.36,Medium,1,2025,37542.87,72568.94,0,0,1,1,0,0,0,0,27045
+DIST036,Healthcare,Funskool Monopoly,Toys,4586.74,3982.36,Fast Moving,3,2024,4586.74,4452.24,0,1,0,0,0,1,1,0,26544
+DIST036,Healthcare,Funskool Monopoly,Toys,5824.95,3982.36,Medium,4,2024,5824.95,4586.74,1,0,0,0,0,1,0,1,26545
+DIST036,Healthcare,Funskool Monopoly,Toys,3246.82,3982.36,Slow Moving,1,2025,3246.82,5824.95,0,0,1,1,0,0,0,0,26546
+DIST036,Healthcare,Haldiram's Bhujia,Food,38916.03,22105.21,Fast Moving,3,2024,38916.03,35544.96,0,1,0,0,0,1,1,0,26675
+DIST036,Healthcare,Haldiram's Bhujia,Food,45632.87,22105.21,Medium,4,2024,45632.87,38916.03,1,0,0,0,0,1,0,1,26676
+DIST036,Healthcare,Haldiram's Bhujia,Food,28751.43,22105.21,Fast Moving,1,2025,28751.43,45632.87,0,0,1,1,0,0,0,0,26677
+DIST036,Healthcare,Hasbro Gaming Jenga,Toys,803.62,845.34,Slow Moving,3,2024,803.62,716.44,0,1,0,0,0,1,1,0,26610
+DIST036,Healthcare,Hasbro Gaming Jenga,Toys,1045.87,845.34,Medium,4,2024,1045.87,803.62,1,0,0,0,0,1,0,1,26611
+DIST036,Healthcare,Hasbro Gaming Jenga,Toys,532.46,845.34,Fast Moving,1,2025,532.46,1045.87,0,0,1,1,0,0,0,0,26612
+DIST036,Healthcare,Honda Engine Oil 10W-30,Automotive,7842.56,4770.42,Fast Moving,3,2024,7842.56,9122.78,0,1,0,0,0,1,1,0,26835
+DIST036,Healthcare,Honda Engine Oil 10W-30,Automotive,8945.23,4770.42,Medium,4,2024,8945.23,7842.56,1,0,0,0,0,1,0,1,26836
+DIST036,Healthcare,Honda Engine Oil 10W-30,Automotive,5126.89,4770.42,Fast Moving,1,2025,5126.89,8945.23,0,0,1,1,0,0,0,0,26837
+DIST036,Healthcare,Hot Wheels 5-Car Pack,Toys,3932.91,5502.54,Medium,3,2024,3932.91,4759.42,0,1,0,0,0,1,1,0,27391
+DIST036,Healthcare,Hot Wheels 5-Car Pack,Toys,5678.24,5502.54,Fast Moving,4,2024,5678.24,3932.91,1,0,0,0,0,1,0,1,27392
+DIST036,Healthcare,Hot Wheels 5-Car Pack,Toys,4287.65,5502.54,Medium,1,2025,4287.65,5678.24,0,0,1,1,0,0,0,0,27393
+DIST036,Healthcare,Kissan Mixed Fruit Jam,Food,9462.87,8738.38,Fast Moving,3,2024,9462.87,4160.59,0,1,0,0,0,1,1,0,26359
+DIST036,Healthcare,Kissan Mixed Fruit Jam,Food,12547.96,8738.38,Slow Moving,4,2024,12547.96,9462.87,1,0,0,0,0,1,0,1,26360
+DIST036,Healthcare,Kissan Mixed Fruit Jam,Food,5264.83,8738.38,Medium,1,2025,5264.83,12547.96,0,0,1,1,0,0,0,0,26361
+DIST036,Healthcare,Kong Classic Dog Toy,Pet Supplies,10773.44,7035.35,Fast Moving,3,2024,10773.44,8452.35,0,1,0,0,0,1,1,0,27273
+DIST036,Healthcare,Kong Classic Dog Toy,Pet Supplies,12053.98,7035.35,Fast Moving,4,2024,12053.98,10773.44,1,0,0,0,0,1,0,1,27274
+DIST036,Healthcare,Kong Classic Dog Toy,Pet Supplies,7458.62,7035.35,Slow Moving,1,2025,7458.62,12053.98,0,0,1,1,0,0,0,0,27275
+DIST036,Healthcare,MAC Ruby Woo Lipstick,Beauty,4148.05,5146.8,Slow Moving,3,2024,4148.05,2054.77,0,1,0,0,0,1,1,0,27088
+DIST036,Healthcare,MAC Ruby Woo Lipstick,Beauty,4555.29,5146.8,Slow Moving,4,2024,4555.29,4148.05,1,0,0,0,0,1,0,1,27089
+DIST036,Healthcare,MAC Ruby Woo Lipstick,Beauty,2854.37,5146.8,Medium,1,2025,2854.37,4555.29,0,0,1,1,0,0,0,0,27090
+DIST036,Healthcare,MDH Garam Masala,Food,8745.62,6345.93,Medium,3,2024,8745.62,7582.88,0,1,0,0,0,1,1,0,26654
+DIST036,Healthcare,MDH Garam Masala,Food,10246.85,6345.93,Fast Moving,4,2024,10246.85,8745.62,1,0,0,0,0,1,0,1,26655
+DIST036,Healthcare,MDH Garam Masala,Food,5687.24,6345.93,Slow Moving,1,2025,5687.24,10246.85,0,0,1,1,0,0,0,0,26656
+DIST036,Healthcare,MTR Breakfast Mix,Food,1054.21,640.46,Slow Moving,3,2024,1054.21,798.01,0,1,0,0,0,1,1,0,26949
+DIST036,Healthcare,MTR Breakfast Mix,Food,1265.87,640.46,Fast Moving,4,2024,1265.87,1054.21,1,0,0,0,0,1,0,1,26950
+DIST036,Healthcare,MTR Breakfast Mix,Food,785.46,640.46,Medium,1,2025,785.46,1265.87,0,0,1,1,0,0,0,0,26951
+DIST036,Healthcare,Me-O Cat Food Seafood 7kg,Pet Supplies,32654.78,21784.25,Fast Moving,3,2024,32654.78,27534.22,0,1,0,0,0,1,1,0,26787
+DIST036,Healthcare,Me-O Cat Food Seafood 7kg,Pet Supplies,42158.64,21784.25,Medium,4,2024,42158.64,32654.78,1,0,0,0,0,1,0,1,26788
+DIST036,Healthcare,Me-O Cat Food Seafood 7kg,Pet Supplies,24682.15,21784.25,Slow Moving,1,2025,24682.15,42158.64,0,0,1,1,0,0,0,0,26789
+DIST036,Healthcare,Michael Kors Crossbody Bag,Apparel,11568.74,7211.41,Medium,3,2024,11568.74,9623.0,0,1,0,0,0,1,1,0,26632
+DIST036,Healthcare,Michael Kors Crossbody Bag,Apparel,14257.32,7211.41,Fast Moving,4,2024,14257.32,11568.74,1,0,0,0,0,1,0,1,26633
+DIST036,Healthcare,Michael Kors Crossbody Bag,Apparel,8765.43,7211.41,Slow Moving,1,2025,8765.43,14257.32,0,0,1,1,0,0,0,0,26634
+DIST036,Healthcare,Nivia Basketball,Sports,7432.56,5532.88,Medium,3,2024,7432.56,6261.29,0,1,0,0,0,1,1,0,26477
+DIST036,Healthcare,Nivia Basketball,Sports,8974.35,5532.88,Fast Moving,4,2024,8974.35,7432.56,1,0,0,0,0,1,0,1,26478
+DIST036,Healthcare,Nivia Basketball,Sports,5428.76,5532.88,Slow Moving,1,2025,5428.76,8974.35,0,0,1,1,0,0,0,0,26479
+DIST036,Healthcare,Olay Total Effects Day Cream,Beauty,1176.06,2151.41,Slow Moving,3,2024,1176.06,1102.44,0,1,0,0,0,1,1,0,26315
+DIST036,Healthcare,Olay Total Effects Day Cream,Beauty,1486.28,2151.41,Medium,4,2024,1486.28,1176.06,1,0,0,0,0,1,0,1,26316
+DIST036,Healthcare,Olay Total Effects Day Cream,Beauty,1024.87,2151.41,Fast Moving,1,2025,1024.87,1486.28,0,0,1,1,0,0,0,0,26317
+DIST036,Healthcare,Omron Blood Pressure Monitor,Health,1786.42,1819.22,Fast Moving,3,2024,1786.42,910.3,0,1,0,0,0,1,1,0,26568
+DIST036,Healthcare,Omron Blood Pressure Monitor,Health,2487.65,1819.22,Medium,4,2024,2487.65,1786.42,1,0,0,0,0,1,0,1,26569
+DIST036,Healthcare,Omron Blood Pressure Monitor,Health,1425.36,1819.22,Slow Moving,1,2025,1425.36,2487.65,0,0,1,1,0,0,0,0,26570
+DIST036,Healthcare,Parker Vector Fountain Pen,Office Supplies,14786.52,13816.22,Fast Moving,3,2024,14786.52,11662.15,0,1,0,0,0,1,1,0,27343
+DIST036,Healthcare,Parker Vector Fountain Pen,Office Supplies,18654.82,13816.22,Medium,4,2024,18654.82,14786.52,1,0,0,0,0,1,0,1,27344
+DIST036,Healthcare,Parker Vector Fountain Pen,Office Supplies,10562.47,13816.22,Slow Moving,1,2025,10562.47,18654.82,0,0,1,1,0,0,0,0,27345
+DIST036,Healthcare,Parle-G Biscuits Value Pack,Food,8762.58,5909.6,Fast Moving,3,2024,8762.58,6223.23,0,1,0,0,0,1,1,0,27413
+DIST036,Healthcare,Parle-G Biscuits Value Pack,Food,10487.65,5909.6,Medium,4,2024,10487.65,8762.58,1,0,0,0,0,1,0,1,27414
+DIST036,Healthcare,Parle-G Biscuits Value Pack,Food,7246.82,5909.6,Slow Moving,1,2025,7246.82,10487.65,0,0,1,1,0,0,0,0,27415
+DIST036,Healthcare,Patanjali Ashwagandha,Health,4986.42,3786.83,Medium,3,2024,4986.42,3580.05,0,1,0,0,0,1,1,0,27106
+DIST036,Healthcare,Patanjali Ashwagandha,Health,6245.78,3786.83,Fast Moving,4,2024,6245.78,4986.42,1,0,0,0,0,1,0,1,27107
+DIST036,Healthcare,Patanjali Ashwagandha,Health,3587.49,3786.83,Medium,1,2025,3587.49,6245.78,0,0,1,1,0,0,0,0,27108
+DIST036,Healthcare,Pedigree Adult Dog Food 10kg,Pet Supplies,8562.31,4920.06,Medium,3,2024,8562.31,7739.83,0,1,0,0,0,1,1,0,26519
+DIST036,Healthcare,Pedigree Adult Dog Food 10kg,Pet Supplies,10845.72,4920.06,Fast Moving,4,2024,10845.72,8562.31,1,0,0,0,0,1,0,1,26520
+DIST036,Healthcare,Pedigree Adult Dog Food 10kg,Pet Supplies,6352.47,4920.06,Slow Moving,1,2025,6352.47,10845.72,0,0,1,1,0,0,0,0,26521
+DIST036,Healthcare,Pepsi 330ml Can Pack,Beverages,45135.97,21367.23,Medium,3,2024,45135.97,43473.47,0,1,0,0,0,1,1,0,26452
+DIST036,Healthcare,Pepsi 330ml Can Pack,Beverages,40197.25,21367.23,Slow Moving,4,2024,40197.25,45135.97,1,0,0,0,0,1,0,1,26453
+DIST036,Healthcare,Pepsi 330ml Can Pack,Beverages,28642.75,21367.23,Fast Moving,1,2025,28642.75,40197.25,0,0,1,1,0,0,0,0,26454
+DIST036,Healthcare,Pigeon Favorite Electric Kettle,Home Goods,12568.72,6581.96,Fast Moving,3,2024,12568.72,6966.27,0,1,0,0,0,1,1,0,26338
+DIST036,Healthcare,Pigeon Favorite Electric Kettle,Home Goods,15874.65,6581.96,Medium,4,2024,15874.65,12568.72,1,0,0,0,0,1,0,1,26339
+DIST036,Healthcare,Pigeon Favorite Electric Kettle,Home Goods,8745.21,6581.96,Slow Moving,1,2025,8745.21,15874.65,0,0,1,1,0,0,0,0,26340
+DIST036,Healthcare,Revital H Capsules,Health,9568.47,9972.53,Fast Moving,3,2024,9568.47,5822.44,0,1,0,0,0,1,1,0,26905
+DIST036,Healthcare,Revital H Capsules,Health,12874.65,9972.53,Medium,4,2024,12874.65,9568.47,1,0,0,0,0,1,0,1,26906
+DIST036,Healthcare,Revital H Capsules,Health,6854.92,9972.53,Fast Moving,1,2025,6854.92,12874.65,0,0,1,1,0,0,0,0,26907
+DIST036,Healthcare,SG Cricket Ball Set,Sports,8647.85,8729.29,Fast Moving,3,2024,8647.85,6251.95,0,1,0,0,0,1,1,0,27065
+DIST036,Healthcare,SG Cricket Ball Set,Sports,11285.76,8729.29,Medium,4,2024,11285.76,8647.85,1,0,0,0,0,1,0,1,27066
+DIST036,Healthcare,SG Cricket Ball Set,Sports,6152.48,8729.29,Fast Moving,1,2025,6152.48,11285.76,0,0,1,1,0,0,0,0,27067
