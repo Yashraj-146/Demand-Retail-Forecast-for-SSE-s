@@ -62,14 +62,14 @@ The forecast results will be saved in the `output/` directory. Use the provided 
 ## Project Structure
 ```
 Demand-Retail-Forecast-for-SSE-s/
-├── data/                # Data and preprocessing scripts
-├── models/              # Model architecture and training scripts
-├── notebooks/           # Jupyter notebooks for EDA and analysis
-├── output/              # Generated forecasts and reports
-├── config.yaml          # Configuration file
-├── run_forecast.py      # Main script to run the forecasting model
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── FeedForward_Model.ipynb        # FeedForward model notebook
+├── TFT_Model.ipynb                # Latest Temporal Fusion Transformer implementation
+├── sales_data.csv                 # Main Dataset used for the TFT model(10k rows)
+├── train.csv                      # Training dataset
+├── test.csv                       # Test dataset
+├── sample_submission.csv          # Sample submission format for predictions
+├── README.md                      # Project documentation
+
 ```
 
 ---
